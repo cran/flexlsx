@@ -1,3 +1,14 @@
+# flexlsx 0.3.0
+
+* Numerics will be written as numerics unless 
+`options("openxlsx2.string_nums" = TRUE)` is set - thanks to @JanMarvin
+* BUGFIX #28: flextables without headers will be correctly displayed
+
+# flexlsx 0.2.2
+
+* CRAN release :)
+* Added Bugfix: Can't export flextable with no header (#28)
+
 # flexlsx 0.2.1
 
 * Fixes for CRAN release
