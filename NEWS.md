@@ -1,3 +1,10 @@
+# flexlsx 0.3.2
+
+* Improved performance of wb_apply_border
+* Improved performance of wb_apply_merge
+* Bugfix: Styles from parent cells are applied to complex text paragraphs (#36,
+thanks to @ZhaonanFang)
+
 # flexlsx 0.3.1
 
 * Fix: Border issues (#32, thanks to @MeganMcAuliffe)
