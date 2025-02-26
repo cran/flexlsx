@@ -1,7 +1,7 @@
-ed04bb7ad83288eaacb20767625502b2 *DESCRIPTION
+2442caf24f3848f6d2622c25ffee287f *DESCRIPTION
 0bbbb87425f5c1f6ecd0faa41321816c *LICENSE
 19a689a90ffcb1c54a876a376a1cf312 *NAMESPACE
-867228bc59dfb2bd1989d3ebe3d1d343 *NEWS.md
+7fbad7bb760dd05e9c22f79607b2f0de *NEWS.md
 aefc47f9121298d920150a2835711a61 *R/RcppExports.R
 d4def514dc39fbc45a4fb3845af3cd95 *R/dim_ranges.R
 ece8790189b088a453870d4f95312161 *R/flexlsx-package.R
@@ -12,7 +12,7 @@ a2ef7d09c02b2100f20a24f8411c21b7 *R/testsuite.R
 ba8064388357b73520bba2ca01484a90 *R/wb_add_flextable.R
 f02fcf346dccec86d5968a28934a2f27 *R/wb_apply_border.R
 80d6abb7889079a22e6390930d74daac *R/wb_apply_cell_styles.R
-f4badf08db0a82f00a691f93693efd24 *R/wb_apply_content.R
+0845f8d127354f837c8a6fe9bb825281 *R/wb_apply_content.R
 6b3f51c840d955c8afb94f7b3e623935 *R/wb_apply_merge.R
 55933b3d93ff411a052000668b20cdd4 *R/wb_apply_text_styles.R
 26c38d351740e031728946ecba1bc334 *R/wb_change_height_width.R
@@ -43,6 +43,7 @@ f1282826d81d65fe45d96d2c96a6cb71 *man/wb_apply_content.Rd
 78390d8056ef8bedfcec0b854197ac7d *src/utils.cpp
 5d6e6d29c94f438ab39a701c5a75675b *tests/testthat.R
 4e3cd5b3c64bdf8cea7684e6c3d15e57 *tests/testthat/_snaps/ft_to_style.md
+e1c06d85ae7b8b032bef47e42e4c08f9 *tests/testthat/test-RcppExports.R
 e049c88655abbaa35623afcc5e97f5e0 *tests/testthat/test-dim_ranges.R
 e6064bfa2b26801d192e3ef62b3f5ad4 *tests/testthat/test-ft_to_style.R
 a742bde984f3e60b8af349436f36cdf3 *tests/testthat/test-string_num.R
